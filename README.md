@@ -21,16 +21,6 @@ Aplikasi web untuk pemesanan batako secara online dengan antarmuka pengguna yang
 3. Simpan semua file ke folder `htdocs`
 4. Akses melalui browser: `http://localhost/nama_folder/index.php`
 
-## Screenshot Aplikasi
-![alt text](<Screenshot 2025-06-28 190405.png>)
-![alt text](<Screenshot 2025-06-28 190405-1.png>) 
-![alt text](<Screenshot 2025-06-28 190405-2.png>) 
-![alt text](<Screenshot 2025-06-28 190405-3.png>) 
-![alt text](<Screenshot 2025-06-28 190418.png>) 
-![alt text](<Screenshot 2025-06-28 190418-1.png>)
- ![alt text](<Screenshot 2025-06-28 190418-2.png>)
-
-
 
 # Batako Online
 
@@ -103,23 +93,11 @@ batako-online/
 * Fitur upload bukti pembayaran.
 * Buat QR code/cetak bukti unik untuk pelanggan.
 
-app screnshoot
-menampilkan halaman pemesanan batako
-![alt text](<Screenshot 2025-06-28 190405-2.png>)
-
-menampilkan halaman login
-![alt text](<Screenshot 2025-06-28 190418-4.png>)
-
-daftar pemesan batako
-![alt text](<Screenshot 2025-06-28 190445.png>)
-
-Form pemesanan batako
-![alt text](<Screenshot 2025-06-28 190405-3.png>)
-
-Laporan jumlah pesanan perbulan
-![alt text](<Screenshot 2025-06-28 190518.png>)
-
-Laporaan lengkap data pemesanan
-![alt text](<Screenshot 2025-06-28 190542.png>)
+## Screenshot Aplikasi
+![alt text](<Screenshot 2025-06-28 190418-3.png>) 
+![alt text](<Screenshot 2025-06-28 190418-4.png>) 
+![alt text](<Screenshot 2025-06-28 190445.png>) 
+![alt text](<Screenshot 2025-06-28 190518.png>) 
+Z![alt text](<Screenshot 2025-06-28 190542.png>)
 
 > Dikembangkan untuk UAS Teknologi Web Genap 2025
